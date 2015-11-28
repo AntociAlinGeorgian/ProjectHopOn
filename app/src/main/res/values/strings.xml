@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hop On!</string>
+    <string name="create_account">Create account</string>
+    <string name="action_settings">Settings</string>
+</resources>
